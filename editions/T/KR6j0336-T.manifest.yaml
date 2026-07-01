@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6j0336/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0336/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂普賢瑜伽大教王經大樂不空金剛薩埵一切時方成就儀
+  identifiers:
+    krp: KR6j0336
+    cbeta: T20n1121
+    cbeta_old_id: T20n1121
+    authorityid: CA0001637
+    json_key: T1121
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1121.xml
+    old_id: T20n1121
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0336_000-T.yaml, hash: 'sha256:f6a8bf6ed83e19247a4d18a30f78137eada2ebd43fbe1f80ae822277d0a7d368'}
+  - {seq: 1, filename: KR6j0336_001-T.yaml, hash: 'sha256:f19111d5bcac39b84af4bc3016336e503b148f6b64eacac5907d2e5609f88400'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0336_000-T.markers.yaml, hash: 'sha256:d33287caed28e1ca4abbfb6e3a45c61450fa313c05b6f95779466932c8a1185f'}
+  - {seq: 1, role: markers, filename: assets/KR6j0336_001-T.markers.yaml, hash: 'sha256:a0cbc004a76314b45ad6a1a3d3af55c718bf536f5a87e1333124fe9392a27b88'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0336_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2105
+  label: '金剛頂普賢瑜伽大教王經大
+
+    樂不空金剛薩埵一切時方成
+
+    就儀'
+  type: juan
+  level: 1
+hash: sha256:ce7cf48790dd24276881277bd88c1785198a54c74251c3419792b79434dd5b4e

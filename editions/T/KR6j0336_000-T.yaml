@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0336/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂普賢瑜伽大教王經大樂不空金剛薩埵一切時方成就儀
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1121.xml
+    old_id: T20n1121
+hash: sha256:f6a8bf6ed83e19247a4d18a30f78137eada2ebd43fbe1f80ae822277d0a7d368
