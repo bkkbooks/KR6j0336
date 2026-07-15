@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0336/v1
 canonical_location: https://kanripo.org/bkk/KR6j0336/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金剛頂普賢瑜伽大教王經大樂不空金剛薩埵一切時方成就儀
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0336_000.yaml, hash: 'sha256:f6a8bf6ed83e19247a4d18a30f78137eada2ebd43fbe1f80ae822277d0a7d368'}
-  - {seq: 1, filename: KR6j0336_001.yaml, hash: 'sha256:f19111d5bcac39b84af4bc3016336e503b148f6b64eacac5907d2e5609f88400'}
+  - {seq: 1, filename: KR6j0336_001.yaml, hash: 'sha256:ff791ffdcb0b458f3e2589741307264c6bc9bcbf4f5be013d88c36f4a2c00cdf'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0336_000.markers.yaml, hash: 'sha256:dfbcf586a3f9d6d0742ebb108877b676733f1f29900233c5e1a2ff15b67f5d3b'}
-  - {seq: 1, role: markers, filename: assets/KR6j0336_001.markers.yaml, hash: 'sha256:8151deef819dbcc4e5390b28e28209e5de6292409ab7ed581364919f95c5b699'}
+  - {seq: 1, role: markers, filename: assets/KR6j0336_001.markers.yaml, hash: 'sha256:cb820e0bedb8e78ac445ddf74c7471ec7e55b644db5ab6b7e9b8e33275420357'}
 table_of_contents:
 - ref:
     seq: 1
@@ -44,4 +44,7 @@ table_of_contents:
     就儀'
   type: juan
   level: 1
-hash: sha256:dba51b48af85b19c2327a04d34c464baa1b5a9c3adc5854f48105b8020792a67
+hash: sha256:f0c4ec692f9facde0aa276406558da5101fbd6de6baf3e45a3fbe656c24224f8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
